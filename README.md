@@ -1,5 +1,5 @@
 # Buggy Python
-
+The zero
 ## Description
 This repository contains several buggy python scripts. The purpose of the introduction of bugs is to test your attention to detail and problem solving skills.
 
