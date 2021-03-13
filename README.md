@@ -11,3 +11,5 @@ The requirements for this project are simple and are as follows:
 Do not modify the existing logic, just find the bug in the code snippets and correct it.
 The expected output when running the script is displayed in `main.py`
 Do not modify the `main.py` file.
+## Hello
+hello
