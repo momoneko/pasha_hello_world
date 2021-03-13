@@ -12,4 +12,4 @@ Do not modify the existing logic, just find the bug in the code snippets and cor
 The expected output when running the script is displayed in `main.py`
 Do not modify the `main.py` file.
 ## Hello
-hello
+Hello.
